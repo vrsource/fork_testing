@@ -10,4 +10,4 @@ Feature 1: does great things and stuff.
 
 Feature 2: Adding more really good things to project.
 
-Feature 3: Take over the world
+Feature 3: Take over the tri-state area.
